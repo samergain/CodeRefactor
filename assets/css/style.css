@@ -87,7 +87,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     /* the contrast ratio between this background color and the text color on it is below the accepted standard.
-    changing the background to a darker color can fix this. (#1A5C7F) or darker.  */
+    changing the background to a darker color can fix this. (#1A5C7F) or darker. palette generator: https://confrere.com/a11y/test/  */
 }
 
 .benefit {
