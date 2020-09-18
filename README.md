@@ -14,5 +14,7 @@ Refactoring an existing webpage to meet SEO and accessibility standards.
 * [SERP snippet generator](https://serpsim.com/)
 
 ## What's Next?
-The side bar needs some work with the text/background contrast ratio (see screenshot below) as it's a little below the standards. Additional instructions added as comments in code.
+* The side bar needs some work with the text/background contrast ratio (see screenshot below) as it's a little below the standards. Additional instructions added as comments in code.
 ![Contrast](contrast.png)
+
+* Make it compatible with old browsers (IE.6/7/8 and others)
