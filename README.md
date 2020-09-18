@@ -13,3 +13,6 @@ Refactoring an existing webpage to meet SEO and accessibility standards.
 * [Markup Validation Service](https://validator.w3.org/)
 * [SERP snippet generator](https://serpsim.com/)
 
+## What's Next?
+The side bar needs some work with the text/background contrast ratio (see screenshot below) as it's a little below the standards. Additional instructions added as comments in code.
+![Contrast](contrast.png)
